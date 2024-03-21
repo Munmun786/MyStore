@@ -31,7 +31,7 @@ import com.mystore.actiondriver.Action;
 public class BaseClass {
 	
 	
-	
+	//gives some comment
 public static Properties prop;	
 
 //public static WebDriver driver;	
