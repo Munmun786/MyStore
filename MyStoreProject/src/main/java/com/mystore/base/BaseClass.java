@@ -51,7 +51,7 @@ public static WebDriver getDriver() {
 	return driver.get();
 }
 
-
+//huybuhno
 
 @BeforeTest(groups = {"Smoke","Sanity","Resgression"} )
 public void loadConfig() {
